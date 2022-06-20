@@ -1,6 +1,14 @@
-# Neem Tree Agro Solutions
-## On a mission to digitize Agriculture, one step at a time.
+<p align=center>
+<img src="https://github.com/Neem-Tree-Agro-Solutions/.github/blob/main/profile/Full%20Dark%20Teal.png" alt="Neem Tree Agro Solutions" width="800"/>
+</p>
 
+<div align=center>
+
+  > On a mission to digitize Agriculture, one step at a time.
+
+</div>
+
+<br>
 
 We are building a data-driven decision support system, a mobile application that helps farmers to grow efficiently and grow more.  This will directly solve the problem of over 90+ Million farmers across India whose household income depends directly on agriculture. Solving for Bharat! 
 
@@ -16,7 +24,7 @@ Solving farmers problem of low yield and high input costs.
 
 ### Founded By 
 
-[Dhiresh](), [Nishant]() and [Paras]() 
+[Dhiresh](https://www.linkedin.com/in/dhiresh-kumar-b535a012a), [Nishant](https://www.linkedin.com/in/nishant-chauhan-79111a138) and [Paras](https://www.linkedin.com/in/parasjain221) 
 
 <br>
 
