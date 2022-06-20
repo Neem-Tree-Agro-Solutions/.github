@@ -1,10 +1,27 @@
-## Hi there 👋
+# Neem Tree Agro Solutions
+## On a mission to digitize Agriculture, one step at a time.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+We are building a data-driven decision support system, a mobile application that helps farmers to grow efficiently and grow more.  This will directly solve the problem of over 90+ Million farmers across India whose household income depends directly on agriculture. Solving for Bharat! 
 
+*Founded in 2019 by Dhiresh Kumar, Paras Jain and Nishant Chauhan, [Neem Tree Agro Solutions]() follows a ‘phygital’ approach (physical+digital). It provides a full-stack solution and handles everything – right from sowing to harvesting, with fully functional retailer shops in every nook and corner*
+
+<br>
+
+### What we are crazy about?
+
+Solving farmers problem of low yield and high input costs. 
+
+<br>
+
+### Founded By 
+
+[Dhiresh](), [Nishant]() and [Paras]() 
+
+<br>
+
+### Sector
+
+AgTech
+
+<br>
